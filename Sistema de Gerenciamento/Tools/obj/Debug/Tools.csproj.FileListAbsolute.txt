@@ -1,0 +1,4 @@
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Tools\bin\Debug\Tools.dll
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Tools\bin\Debug\Tools.pdb
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Tools\obj\Debug\Tools.dll
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Tools\obj\Debug\Tools.pdb

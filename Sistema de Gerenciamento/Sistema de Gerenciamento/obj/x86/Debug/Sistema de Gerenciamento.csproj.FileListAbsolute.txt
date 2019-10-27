@@ -1,0 +1,19 @@
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\Sistema de Gerenciamento.exe
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\Sistema de Gerenciamento.pdb
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.Properties.Resources.resources
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema de Gerenciamento.csproj.GenerateResource.Cache
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema de Gerenciamento.exe
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema de Gerenciamento.pdb
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmLoading.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema de Gerenciamento.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmLogin.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\DAL.dll
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\System.Data.SQLite.dll
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\DAL.pdb
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmInicio.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmUsuarios.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\Tools.dll
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\bin\Debug\Tools.pdb
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmCadastrarFornecedor.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmPesquisarFornecedor.resources
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\Sistema de Gerenciamento\obj\x86\Debug\Sistema_de_Gerenciamento.FrmPesquisarCliente.resources

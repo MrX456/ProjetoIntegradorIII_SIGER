@@ -1,0 +1,6 @@
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\DAL\bin\Debug\DAL.dll
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\DAL\bin\Debug\DAL.pdb
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\DAL\obj\Debug\DAL.dll
+c:\users\junior\documents\visual studio 2010\Projects\Sistema de Gerenciamento\DAL\obj\Debug\DAL.pdb
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Visual Studio 2010\Projects\Sistema de Gerenciamento\DAL\bin\Debug\System.Data.SQLite.dll

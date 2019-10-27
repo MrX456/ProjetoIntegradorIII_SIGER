@@ -12,7 +12,7 @@ MATHEUS DE FREITAS FUJII			    RA 1805141 \
 VICTOR GARDIM RODRIGUES			      RA 1816313 
 
 Descrição: 
-Sistema para Gerenciamento de Fornecedores, Clientes e Serviços e permissões de uso do sistema.
+Sistema para gerenciamento de fornecedores, clientes e serviços e permissões de uso do sistema.
 
 Linguagem de Programação : c#
 

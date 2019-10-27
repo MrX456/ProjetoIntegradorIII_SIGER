@@ -9,7 +9,7 @@ CESAR RODRIGO IGNACIO			        RA 1806810 \
 HELLENCAROLINE DE CASTRO ISHIDA 	RA 1808931 \
 JOSAFA JOSÉ DOS SANTOS JUNIOR		  RA 1804968 \
 MATHEUS DE FREITAS FUJII			    RA 1805141 \
-VICTOR GARDIM RODRIGUES			      RA 1816313 \
+VICTOR GARDIM RODRIGUES			      RA 1816313 
 
 Descrição: 
 Sistema para Gerenciamento de Fornecedores, Clientes e Serviços e permissões de uso do sistema.
